@@ -2,6 +2,7 @@
 A responsive and visually appealing portfolio website showcasing my skills, projects, and contact information.
 Features:
 Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
+
 Sections:
 Home: Welcoming introduction with a professional profile and tagline.
 About: Brief overview of my skills, certifications, and education.
